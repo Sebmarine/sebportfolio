@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+$primary-color: #ffd700;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('./assets/fonts/helvetica-neu.tff') format('tff');
+}
